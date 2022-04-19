@@ -1,2 +1,2 @@
 This is a Sample Maven App. 
-Changes to trigger pipeline
+Changes to trigger pipeline2
